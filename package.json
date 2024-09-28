@@ -9,9 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@clerk/clerk-react": "^5.9.4",
+    "@clerk/localizations": "^3.1.0",
+    "@clerk/nextjs": "^5.6.3",
+    "convex": "^1.16.3",
+    "next": "14.2.13",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.13"
+    "react-dom": "^18"
   },
   "devDependencies": {
     "typescript": "^5",
